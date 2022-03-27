@@ -28,7 +28,7 @@ import styles from './Navbar.css'
                 <Link to="/rockets">Rockets</Link>
             </li>
             <li>
-                <Link to="/upcoming">Upcoming</Link>
+                <Link to="/upcoming">Upcoming/Past Launches</Link>
             </li>
           
         </ul>
