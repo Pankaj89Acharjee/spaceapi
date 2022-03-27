@@ -1,0 +1,21 @@
+.card {
+    background: linear-gradient(270deg, rgb(7, 20, 19), rgb(1, 30, 31), #6600cc);
+    padding: 30px 40px;
+    border: 1px solid #4807fd;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px #ff9a02, 0 8px 8px #000000;
+    opacity: 0.9;
+    border-radius: 15px;
+    
+}
+
+.card img {
+    max-width: 250px;
+   
+    
+}
+.card:hover{
+    box-shadow: 0 14px 20px #fc049d, 0 16px 10px #041f2c;
+    transform: scale(1.1);
+    transition: 0.9s ease-in-out;
+}
